@@ -1,0 +1,37 @@
+Project- Google play store data analysis
+
+Work Done-
+1)Data cleanes and filled null values.
+2)By using box plot get rating average for each category.
+3)By using pie plot get information about free and paid app.
+4)Get information using bar plot which field using most paid app
+5)Get information about maximum & minimum installed app and its category
+6)Get information about Pricey app and its installed user
+7)How many app received low rating.
+
+Choose this project to find out following information:
+1)Find most paid installed app category
+2)Which category paying more to the develpoer
+3)Get information to develpoer to Which app need to make better accroding to user ratings & reviews
+
+
+Conclusion:
+1)Average rating of each category app has in between 3.5 to 4 star
+2)92.6% user use free app and only 7.4% user used paid app
+3)The most paid apps used by users are in the medical category.
+4)Maximum apps installed from the game and communication categories.
+5)14 apps has been installed less.
+6)The costliest app is "I'm Rich - Trump Edition",this has been installed by 10K+ user.However,the app has an average
+rating
+7)There are 16 apps which have received only 1 star rating
+
+
+Result:
+1)User prefer free app rather than paid.But most paid version belong to the medical category.However,this does indicate
+that medical apps can be more paying to the developer.
+2)The most installed apps are in games and communication category.If more and more apps are launched and the apps will 
+update constantly in this category then more user will install app.
+3)"I'm Rich - Trump Edition" App has most pricey and 10,000+ user installled it but rating for this app is average.
+So app developer work on app as per user reviews then rating and installation of this app can be increse.
+4)There are 16 apps received low(1 star) rating so app delevoper need to work on app as per user reviews that can help 
+to get good ratings and increase installation number.
